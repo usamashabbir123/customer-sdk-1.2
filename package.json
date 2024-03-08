@@ -25,5 +25,9 @@
   "homepage": "https://github.com/usamashabbir123/customer-sdk-1.2#readme",
   "files": [
     "lib/**/*"
-  ]
+  ],
+  "dependencies": {
+    "electron": "^29.1.1",
+    "socket.io-client": "^4.7.4"
+  }
 }
